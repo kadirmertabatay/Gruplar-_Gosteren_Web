@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header ul li a{
+    color: whitesmoke;
+}
+section #yazı{
+    background: gray;
+    color: white;
+    text-align: center;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 20px 200px ;
+    margin-left: 110px;
+
+}
+body{
+
+     background-image:url(video-konferanslar-icin-star-wars-arka-plan-resimleri-5643-19.jpg); 
+}
+nav .container{
+    color: white;
+}
+nav li a{
+    text-decoration:none;
+
+}
+section .card img{
+    display: block;
+    margin: auto;
+    /*yukarıda yadığımız iki satır resmi 
+    ortalamamıza yardımcı olur*/
+    padding: 5px;
+    width: 100px;
+    height: 100px;
+}
+section .card-body a{
+    display: block;
+    margin: auto;
+}
+section .card-body .card-title{
+    text-align: center;
+}
+section .cardı{
+    margin-top: 20px;
+}
